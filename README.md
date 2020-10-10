@@ -1,4 +1,4 @@
 # signupwithphp
 run
-composer require mongodb/mongodb
-to install mongodb and php driver in apache2 root directory
+$ composer require mongodb/mongodb --ignore-platform-reqs
+to server root directory
